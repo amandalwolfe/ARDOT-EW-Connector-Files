@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 722.5 347.9">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        clip-rule: evenodd;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-12, .cls-14, .cls-3, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #4d4d4d;
+        stroke-width: 1.4px;
+      }
+
+      .cls-12, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10, .cls-15, .cls-6 {
+        fill: #4d4d4d;
+      }
+
+      .cls-8 {
+        fill: #0b2f60;
+      }
+
+      .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10, .cls-15 {
+        font-size: 33px;
+        font-family: Jost-Medium, Jost;
+        font-weight: 500;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-12 {
+        stroke: #fff;
+        stroke-width: 4.2px;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.1em;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0.46em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <polygon class="cls-1" points="404.4 338.9 487.7 338.9 487.7 255.5 404.4 255.5 404.4 338.9 404.4 338.9"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <polygon class="cls-2" points="404.4 255.5 487.7 255.5 487.7 338.9 404.4 338.9 404.4 255.5 404.4 255.5"/>
+    </clipPath>
+  </defs>
+  <title>legend</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <rect class="cls-3" x="0.7" y="247.2" width="492.7" height="100" rx="9.6"/>
+          <line class="cls-4" x1="398.1" y1="247.2" x2="398.1" y2="347.2"/>
+          <g class="cls-5">
+            <path class="cls-6" d="M478.6,321.3l-10.7-10.8a6.1,6.1,0,0,0-5.3-1.6l-3.8-3.8a25.1,25.1,0,0,0,5.3-15.6,25.8,25.8,0,1,0-25.7,25.8,25.4,25.4,0,0,0,15.6-5.4l3.8,3.8a6.1,6.1,0,0,0,1.6,5.4l10.7,10.7a6.1,6.1,0,0,0,4.3,1.8,6,6,0,0,0,4.2-10.3ZM438.3,310a20.6,20.6,0,1,1,20.6-20.6A20.6,20.6,0,0,1,438.3,310Z"/>
+            <polygon class="cls-7" points="404.4 338.9 487.7 338.9 487.7 255.5 404.4 255.5 404.4 338.9 404.4 338.9"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <rect class="cls-8" x="10.9" y="123.2" width="100" height="100" rx="5.7"/>
+            <polygon class="cls-9" points="83.8 161.4 83.8 144.6 74.6 144.6 74.6 152.7 60.9 139.7 23.1 175.7 21.3 177.3 33.5 177.3 33.5 206.7 56.4 206.7 56.4 183.9 65.5 183.9 65.5 206.8 88.3 206.8 88.3 177.3 93 177.3 100.6 177.3 83.8 161.4"/>
+          </g>
+          <text class="cls-10" transform="translate(145.6 161.7)">Default<tspan x="-9.3" y="39.6">Location</tspan></text>
+        </g>
+        <g>
+          <g>
+            <rect class="cls-8" x="11.1" width="100" height="100" rx="5.7"/>
+            <polygon class="cls-9" points="98.6 44.4 66.7 44.4 66.7 12.5 55.5 12.5 55.5 44.4 23.6 44.4 23.6 55.6 55.5 55.6 55.5 87.5 66.7 87.5 66.7 55.6 98.6 55.6 98.6 44.4 98.6 44.4"/>
+          </g>
+          <text class="cls-10" transform="translate(138.6 58.2)"><tspan class="cls-11">Z</tspan><tspan x="18" y="0">oom In</tspan></text>
+        </g>
+        <g>
+          <g>
+            <rect class="cls-8" x="415.5" y="123.2" width="100" height="100" rx="5.7"/>
+            <path class="cls-12" d="M465.5,210.3a37.1,37.1,0,1,1,37.1-37.1A37.1,37.1,0,0,1,465.5,210.3Zm0-72a34.9,34.9,0,1,0,34.9,34.9A34.9,34.9,0,0,0,465.5,138.3Z"/>
+            <g>
+              <rect class="cls-12" x="464.5" y="137.3" width="2.2" height="6.39"/>
+              <rect class="cls-12" x="464.6" y="202.8" width="2.2" height="6.39"/>
+              <rect class="cls-12" x="429.6" y="172.1" width="6.4" height="2.17"/>
+              <rect class="cls-12" x="495.1" y="172.1" width="6.4" height="2.17"/>
+            </g>
+          </g>
+          <text class="cls-10" transform="translate(569.5 161.7)"><tspan class="cls-13">Y</tspan><tspan x="16.5" y="0">our</tspan><tspan x="-28" y="39.6">Location</tspan></text>
+        </g>
+        <g>
+          <g>
+            <rect class="cls-8" x="414.1" width="100" height="100" rx="5.7"/>
+            <g>
+              <polygon class="cls-9" points="426.6 44.5 501.6 44.5 501.6 55.5 426.6 55.5 426.6 44.5 426.6 44.5"/>
+              <path class="cls-14" d="M501.8,55.7H426.4V44.3h75.4Zm-75-.4h74.6V44.7H426.8Z"/>
+            </g>
+          </g>
+          <text class="cls-15" transform="translate(543 58.3)">Z<tspan class="cls-16" x="18" y="0">oom Out</tspan></text>
+        </g>
+        <text class="cls-10" transform="translate(502.8 285.7)"><tspan class="cls-17">	</tspan><tspan x="25.2" y="0">Sea</tspan><tspan class="cls-18" x="78.7" y="0">r</tspan><tspan x="90.4" y="0">ch for an</tspan><tspan x="50.3" y="39.6">Add</tspan><tspan class="cls-18" x="111.9" y="39.6">r</tspan><tspan class="cls-19" x="123.6" y="39.6">ess</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
